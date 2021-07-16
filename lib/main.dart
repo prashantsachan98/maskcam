@@ -3,7 +3,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 const apikey =
-    "25bf42dcddd58cf3a8c5912e7bb8d4a1e6cdbe31163ac12952d74f302e9437f0f2176c6dbec05954";
+    '6a30540d95cde9310751ab8efbdbaa43fe86777197bd608a83a04b61edf06c210b93ebc0aaecc49c';
+// YOUR API
 
 void main() {
   runApp(MyApp());
